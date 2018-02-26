@@ -24,8 +24,8 @@ import org.scribe.builder.api.TwitterApi;
 public class TwitterClient extends OAuthBaseClient {
 	public static final Class<? extends Api> REST_API_CLASS = TwitterApi.class; // Change this
 	public static final String REST_URL = "https://api.twitter.com/1.1/";
-	public static final String REST_CONSUMER_KEY = "ZqclAFmIeIXZ81PkKztykDQYW";
-	public static final String REST_CONSUMER_SECRET = "JDrupCPYzyv7Nz57pU8SBXnKgHK2zqlNTkRryVbCIOgOldWlje";
+	public static final String REST_CONSUMER_KEY = "";
+	public static final String REST_CONSUMER_SECRET = "";
 	public static final String REST_CALLBACK_URL = "oauth://cpsimpletweets"; // Change this (here and in manifest)
 
 	public TwitterClient(Context context) {
