@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <string name="app_name">SimpleTweet</string>
+    <string name="login_label">Login</string>
+    <string name="action_compose">compose</string>
+    <string name="title_activity_timeline">Timeline</string>
+    <string name="title_activity_compose">Compose</string>
+
+    <string name="tweet_hint">Tweet your thoughts</string>
+    <string name="action_tweet">TWEET </string>
+
+    <string name="hello_world">Hello world!</string>
+
+</resources>
